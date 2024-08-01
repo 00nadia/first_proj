@@ -21,14 +21,14 @@
 		to your new<br />SvelteKit app
 	</h1>
 
-	<h2>
+	<h2 class="bg-orange-200 text-slate-800  underline rounded-md">
 		try editing <strong>src/routes/+page.svelte</strong>
 	</h2>
 
 	<Counter />
 </section>
 
-<style>
+<style lang="postcss">
 	section {
 		display: flex;
 		flex-direction: column;

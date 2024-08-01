@@ -11,11 +11,11 @@
 	</main>
 
 	<footer>
-		<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+		<p class="text-red-900 underline">visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
 	</footer>
 </div>
 
-<style>
+<style lang="postcss">
 	.app {
 		display: flex;
 		flex-direction: column;
